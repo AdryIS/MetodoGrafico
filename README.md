@@ -1,10 +1,9 @@
 # MetodoGrafico
 
-El método gráfico consiste en resolver un sistema lineal de dos ecuaciones con dos incógnitas, por medio de la representación de un sistema de coordenadas ambas rectas y comprobar si se cortan y, si es así, dónde. 
-En este caso, la solución del sistema es la intersección de dos regiones del plano.
+Observamos que al encontrar los intersectos en x− de una parábola es importante porque estos nos dicen dónde la gráfica intercepta el eje de las x− y esto nos permite encontrar el vértice de la parábola. Cuando se nos pide encontrar las soluciones de la ecuación cuadrática en la forma ax2+bx+c=0, básicamente se nos pide encontrar los intersectos en x− de la función cuadrática. Encontrar los intersectos en x− de una parábola también significa encontrar las raíces o ceros de la función. La gráfica de una ecuación cuadrática es muy útil para identificar cuántas soluciones y qué tipos de soluciones tiene una función. Hay tres diferentes situaciones que ocurren cuando se grafica una función cuadrática.
 
-Pasos:  
-1. Despejar una incógnita de las dos ecuaciones
-2. Para cada función obtenida, se hace una tabla con los valores correspondientes
-3. Se representa gráficamente las dos rectas
+Casos:  
+1. La parábola intercepta el eje de las x− en dos puntos
+2. La parábola intercepta el eje de las x− en dos puntos
+3. La parábola no intersecta o no toca el eje x−.
 
